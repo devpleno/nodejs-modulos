@@ -1,7 +1,3 @@
-# nodejs-modulos
-Alguns exemplos de módulos.
-
-
 # NodeJS Módulos
 
 Exemplos de módulos em NodeJS.
